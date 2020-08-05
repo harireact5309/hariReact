@@ -1,0 +1,18 @@
+.controls {
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  width: auto;
+}
+.controls .fa-icon {
+  cursor: pointer;
+  font-size: 3rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 30%;
+  box-shadow: 0 0 6px black;
+  z-index: 2;
+  color: #071a54;
+  background: black
+}
